@@ -52,7 +52,6 @@
     "FORCE_SUB_MESSAGE": {
       "description": "Pesan Paksa Subscribe bot, Gunakan Format parsemode HTML",
       "value": "<b>Halo Kak {first} ^_~
-
 Kalo mau lanjut silahkan join dulu ya kak, kan aq udah capek2 buat, makasih banyak kak ^_~</b>"
     }
   },
